@@ -1,9 +1,10 @@
 ### Hi there, I'm Lucas 👋
 
 - 🌱 I’m currently learning React, AWS and returning a little bit to Java
+- 🎓 Computer Engineer
 - ✨ Professionally working on back-end projects with .NET (ASP.NET Core, .NET Framework and .NET)
 - 🥅 2021 Goals: Create my portfolio, build full-stack apps
-- ⚡ Fun fact: I love to play soccer and play drums
+- ⚡ Fun fact: I love to play soccer, games and drums
 
 ### Connect with me:
 
