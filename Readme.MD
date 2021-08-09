@@ -13,7 +13,6 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />][Xbox]
 
-<br />
 
 ### Languages and Tools:
 
