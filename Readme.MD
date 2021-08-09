@@ -8,9 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Lucas Vieira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lucas Vieira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/lvieira7-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=mail&message=lucas.almeida.vieira@gmail.com" />][email]
+[<img src="https://img.shields.io/badge/lPitFall-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />][Xbox]
 
 <br />
 
@@ -41,9 +42,9 @@
 
 ---
 
-  [![Lvieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvieira21&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Lvieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvieira21&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/lvieira7
 [linkedin]: https://www.linkedin.com/in/lucas-almeida-vieira/
 [email]: mailto:lucas.almeida.vieira@gmail.com
+[Xbox]: https://live.xbox.com/en-US/Profile?Gamertag=lPitFall
