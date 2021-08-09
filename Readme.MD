@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src="https://img.shields.io/badge/lvieira7-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=mail&message=lucas.almeida.vieira@gmail.com" />][email]
-[<img src="https://img.shields.io/badge/lPitFall-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />][Xbox]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />][Xbox]
 
 <br />
 
