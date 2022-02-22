@@ -1,9 +1,9 @@
 ### Hi there, I'm Lucas 👋
 
-- 🌱 I’m currently learning React, AWS and returning a little bit to Java
+- 🌱 I’m currently learning React, AWS and learning Kotlin
 - 🎓 Computer Engineer
-- ✨ Professionally working on back-end projects with .NET (ASP.NET Core, .NET Framework and .NET)
-- 🥅 2021 Goals: Create my portfolio, build full-stack apps
+- ✨ Professionally working on back-end projects with Java (Java/Kotlin with Spring)
+- 🥅 2022 Goals: Build full-stack apps and diversify repository with Java, Kotlin and .Net 
 - ⚡ Fun fact: I love to play soccer, games and drums
 
 ### Connect with me:
@@ -23,6 +23,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
