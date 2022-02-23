@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 
-- 🌱 I’m currently learning React, AWS and learning Kotlin
+- 🌱 I’m currently learning Kotlin (Focused on Back-end Developing), Java, Spring Boot and AWS
 - 🎓 Computer Engineer
 - ✨ Professionally working on back-end projects with Java (Java/Kotlin with Spring)
 - 🥅 2022 Goals: Build full-stack apps and diversify repository with Java, Kotlin and .Net 
