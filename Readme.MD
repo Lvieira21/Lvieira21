@@ -1,10 +1,10 @@
 ### Hi there, I'm Lucas 👋
 
-- 🌱 I’m currently learning Kotlin (Focused on Back-end Developing), Java, Spring Boot and AWS
+- 🌱 I’m currently learning Kotlin (Focused on Back-end Developing) and expanding my knowledge in Kafka and .NET.
 - 🎓 Computer Engineer
-- ✨ Professionally working on back-end projects with Java (Java/Kotlin with Spring)
-- 🥅 2022 Goals: Build full-stack apps and diversify repository with Java, Kotlin and .Net 
-- ⚡ Fun fact: I love to play soccer, games and drums
+- ✨ Professionally working on back-end projects with .NET
+- 🥅 2024 Goals: Build actual products and services in Kotlin and/or .Net 
+- ⚡ Fun fact: I love to play soccer, games and drums. I love tinkering with electronics and I'm trying to build my own Home server.
 
 ### Connect with me:
 
